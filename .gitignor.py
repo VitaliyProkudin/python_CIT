@@ -6,7 +6,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+launch.json
 # C extensions
 *.so
 
